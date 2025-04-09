@@ -1,0 +1,16 @@
+Date Rptd,DATE OCC,TIME OCC,AREA,AREA NAME,Rpt Dist No,Part 1-2,Crm Cd,Crm Cd Desc,Mocodes,Vict Age,Vict Sex,Vict Descent,Premis Cd,Premis Desc,Weapon Used Cd,Weapon Desc,Status,Status Desc,Crm Cd 1,Crm Cd 2,Crm Cd 3,Crm Cd 4,LOCATION,Cross Street,LAT,LON
+1/3/2020 0:00,1/3/2020 0:00,2130,7,Wilshire,784,1,510,VEHICLE - STOLEN,,0,M,O,101,STREET,,,AA,Adult Arrest,510,998,,,1900 S  LONGWOOD                     AV,,34.0375,-118.3506
+9/2/2020 0:00,8/2/2020 0:00,1800,1,Central,182,1,330,BURGLARY FROM VEHICLE,1822 1402 0344,47,M,O,128,BUS STOP/LAYOVER (ALSO QUERY 124),,,IC,Invest Cont,330,998,,,1000 S  FLOWER                       ST,,55.0444,-100.2628
+11/11/2020 0:00,4/11/2020 0:00,1700,3,Southwest,356,1,480,BIKE - STOLEN,0344 1251,19,X,X,502,"MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)",,,IC,Invest Cont,480,,,,1400 W  37TH                         ST,,74.021,-150.3002
+10/5/2023 0:00,10/3/2020 0:00,2037,9,Van Nuys,964,1,343,SHOPLIFTING-GRAND THEFT ($950.01 & OVER),0325 1501,19,M,O,405,CLOTHING STORE,,,IC,Invest Cont,343,,,,14000    RIVERSIDE                    DR,,34.1576,-118.4387
+8/18/2022 0:00,8/17/2020 0:00,1200,6,Hollywood,666,2,354,THEFT OF IDENTITY,1822 1501 0930 2004,28,M,H,102,SIDEWALK,,,IC,Invest Cont,354,,,,1900    TRANSIENT,,34.0944,-118.3277
+4/4/2023 0:00,1/12/2020 0:00,2300,18,Southeast,1826,2,354,THEFT OF IDENTITY,1822 0100 0930 0929,41,M,H,501,SINGLE FAMILY DWELLING,,,IC,Invest Cont,354,,,,9900    COMPTON                      AV,,114.9467,-175.2463
+,,,,Mandaluyong,,,,Holdap,,,,,,,,,,,,,,,,,14.579444,121.035919
+,,,,Makati,,,,Carnap,,,,,,,,,,,,,,,,,33.74057,-84.4168
+,,,,Makati City,,,,Kidnap,,,,,,,,,,,,,,,,,33.71803,-84.40774
+,,,,Paranaque,,,,Hostage,,,,,,,,,,,,,,,,,33.70731,-84.39674
+,,,,Sta. Mesa,,,,Pickpocket,,,,,,,,,,,,,,,,,33.75947,-84.36626
+,,,,Sta. Ana Manila,,,,Arson,,,,,,,,,,,,,,,,,33.82838,-84.40133
+,,,,Valenzuela,,,,Murder,,,,,,,,,,,,,,,,,33.70537,-84.45498
+,,,,City of Valenzuela,,,,Murder,,,,,,,,,,,,,,,,,33.70121,-84.45724
+,,,,Punta Sta. Ana Manila,,,,Murder,,,,,,,,,,,,,,,,,33.83193,-84.42627
